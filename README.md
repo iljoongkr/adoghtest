@@ -1,3 +1,5 @@
 # adoghtest
 
-updateed reademe file
+updated reademe file
+
+Samsung demo
